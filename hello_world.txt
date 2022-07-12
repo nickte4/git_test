@@ -1,0 +1,7 @@
+Hello World!
+If I were to write the main method of a simple Java program,
+it would look like this:
+
+public static main void (String[] args) {
+    System.out.println("Hello World!");
+}
